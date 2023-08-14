@@ -42,5 +42,6 @@ services:
       - backend
     stdin_open: true
     tty: true
+    
 volumes:
   mysql-data:
